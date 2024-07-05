@@ -1,6 +1,6 @@
 Setup and Installation:
 
-git clone https://github.com/yourusername/your-repository-name.git
+git clone  https://github.com/jaysharma2000/Reactjs-Folder_Structure-task.git 
 cd your-repository-name
 
 Install dependencies:
